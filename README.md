@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imwisagist&label=Profile%20views&color=0e75b6&style=flat" alt="imwisagist" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imwisagist" alt="imwisagist" /></a> </p>
-
 - 🌱 I’m currently learning **Python, Django, Postgresql**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/imwisagist?tab=repositories">my repositories</a>
