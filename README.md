@@ -1,12 +1,11 @@
 <h1 align="center">Hello world <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>, my name is Dmitry! I am currently a beginner Python developer.</h1>
 <h3 align="center">Passionate beginner Python backend developer from Russia. Python, and all programming in general, amazed me with its ability to simulate almost any situation that happens in our lives, it's very exciting and insanely addictive :)</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/117d0191569b7e00e69062ce99d26fe9c251dc735c57386b497c75b0b26dda08/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imwisagist&label=Profile%20views&color=0e75b6&style=flat" alt="imwisagist" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imwisagist" alt="imwisagist" /></a> </p>
 
-- 🌱 I’m currently learning **Python, Backend, HTML, SQL**
+- 🌱 I’m currently learning **Python, Django, Postgresql**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/imwisagist?tab=repositories">my repositories</a>
 
