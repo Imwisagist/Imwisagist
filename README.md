@@ -9,6 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imwisagist&label=Profile%20views&color=0e75b6&style=flat" alt="imwisagist" /> </p>
 
 ### Стек технологий: <br>
-Python3, Asyncio, Django, Flask, DRF, PostgreSQL, Git, Docker/Docker-compose, TDD, Pytest, Nginx, 
+Python3, Asyncio, Django, Flask, DRF, PostgreSQL, Git, Docker/Docker-compose, Pytest, Nginx, 
 Gunicorn, Yandex.Cloud, Ubuntu, Bootstrap, HTML/CSS/JavaScript,
 CI/CD Github Actions и другие
