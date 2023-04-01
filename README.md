@@ -7,6 +7,8 @@
 Электронная почта - imwisagist@yandex.ru
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imwisagist&label=Profile%20views&color=0e75b6&style=flat" alt="imwisagist" /> </p>
+ 
+Мой стек технологий:
 <hr>
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -20,3 +22,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp; 
 </div>
+</hr>
