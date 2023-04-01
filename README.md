@@ -3,8 +3,8 @@
 ### Меня зовут Дмитрий, я Python-backend разработчик
 #### Увлёкся разработкой в 2022 году и до сих пор не отпускает)
 В данный момент ищу работу. Контакты для связи со мной:<br>
-Мой телеграмм - @Imwisagist<br>
-Электронная почта - imwisagist@yandex.ru
+Телеграмм - @Imwisagist<br>
+Почта - imwisagist@yandex.ru
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imwisagist&label=Profile%20views&color=0e75b6&style=flat" alt="imwisagist" /> </p>
  
