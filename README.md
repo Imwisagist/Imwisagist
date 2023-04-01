@@ -1,4 +1,4 @@
-<h1 align="left">Приветствую<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+<h1 align="left">Привет<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 ### Меня зовут Дмитрий, я Python-backend разработчик
 #### Увлёкся разработкой в 2022 году и до сих пор не отпускает)
