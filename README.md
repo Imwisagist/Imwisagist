@@ -6,7 +6,7 @@
 Телеграмм - @Imwisagist<br>
 Почта - imwisagist@yandex.ru
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imwisagist&label=Profile%20views&color=0e75b6&style=flat" alt="imwisagist" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imwisagist&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="imwisagist" /> </p>
  
 <p align="center">Мой стек технологий:</p>
 <hr>
