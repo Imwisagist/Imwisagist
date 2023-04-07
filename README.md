@@ -1,6 +1,6 @@
 <h1 align="left">Привет<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
-### Меня зовут Дмитрий, я Python-backend разработчик
+### Меня зовут Дмитрий, я Python вэб-разработчик
 #### Увлёкся разработкой в 2022 году и до сих пор не отпускает)
 В данный момент ищу работу. Контакты для связи со мной:<br>
 Телеграмм - @Imwisagist<br>
