@@ -1,7 +1,7 @@
 <h1 align="left">Привет<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 
 ### Меня зовут Дмитрий, я Python вэб-разработчик
-В данный момент ищу работу. Контакты для связи со мной:<br>
+Контакты для связи со мной:<br>
 Телеграмм - @Imwisagist<br>
 Почта - imwisagist@yandex.ru
 
